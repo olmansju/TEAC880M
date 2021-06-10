@@ -1,0 +1,1301 @@
+learner_activity_group_id,course_offering_id,name,group_weight,status
+17300,105963,N/A,0,available
+73799,107547,Exam,0,available
+12226,114265,Labs,25,available
+93455,114481,Quiz,0,deleted
+43521,114481,Quiz,20,available
+46190,111367,Quiz,0,deleted
+114910,107051,Team,0,available
+25181,106235,Exams,41,available
+143878,115662,Exams,50,available
+27459,111225,Exams,0,available
+7204,116742,Exams,50,available
+117089,107402,Exams,45,available
+54823,105978,Exams,0,available
+85988,105977,Exams,0,available
+86271,113937,Exams,0,available
+107470,111173,Exams,0,available
+130296,115666,Exams,50,available
+107750,116424,Revel,0,deleted
+80577,110341,exams,0,available
+74095,106674,iRATs,15,available
+50259,110539,ACCT 1,0,deleted
+140428,111259,Letter,0,deleted
+139330,109395,Papers,70,available
+111474,110539,TOTAL ,0,available
+146624,115042,Unit 1,0,available
+120778,116270,Quizzes,0,available
+145470,113672,Surveys,0,available
+1197,112993,Activity,0,available
+100276,106979,Homework,30,available
+143594,110181,Homework,10,available
+69047,109959,Homework,11,available
+11763,115533,Homework,40,available
+68986,115999,Module 6,0,available
+14527,109440,Readings,0,available
+123938,108465,Readings,0,deleted
+87734,109432,Readings,0,available
+64707,113934,Readings,0,deleted
+19751,110990,Unsorted,0,deleted
+82868,111034,Unsorted,0,available
+150733,116377,Unsorted,0,available
+5277,106475,August 22,0,available
+115378,109210,CPC Paper,0,available
+54945,106973,NAAP Labs,12,available
+38216,109123,Resources,0,available
+40990,109396,Roll Call,0,available
+52417,117028,クイズ,15,available
+103357,116020,Assessment,0,available
+40776,115594,Assignment,0,available
+3946,108570,Attendance,0,deleted
+98456,106827,Attendance,0,available
+119773,110778,Attendance,7,available
+131503,109124,Discussion,0,available
+97249,113366,Discussion,0,deleted
+2150,113365,LearnSmart,0,available
+118143,116692,buildStuff,0,available
+133855,111036,Assignments,0,available
+76342,107287,Assignments,0,available
+14348,106111,Assignments,0,available
+88878,110666,Assignments,20,available
+71926,105979,Assignments,93,available
+119318,113726,Assignments,0,available
+5193,114230,Assignments,0,available
+77329,114572,Assignments,0,available
+43107,109388,Assignments,0,available
+96337,106674,Assignments,0,deleted
+123025,109940,Assignments,0,available
+22352,110205,Assignments,0,available
+105778,109195,Assignments,0,available
+35005,106469,Assignments,0,available
+128515,116684,Assignments,0,available
+82795,106839,Assignments,0,deleted
+51121,114570,Assignments,0,available
+68258,107410,Assignments,0,available
+60205,110036,Assignments,0,available
+113539,109197,Assignments,0,available
+85485,114571,Assignments,0,available
+72113,109133,Assignments,0,available
+127857,106496,Assignments,0,available
+103013,107054,Assignments,0,available
+119852,106045,Assignments,0,available
+21524,116657,Assignments,0,available
+76051,106499,Assignments,0,deleted
+30383,110356,Assignments,0,available
+57092,106610,Assignments,0,available
+72603,105963,Assignments,0,deleted
+35696,111259,Assignments,0,deleted
+59744,110663,Assignments,0,available
+64339,114161,Assignments,0,available
+82745,111043,Assignments,0,available
+74957,109941,Assignments,0,available
+43881,114223,Assignments,0,available
+96050,106485,Assignments,0,available
+106850,109328,Assignments,0,deleted
+12976,114974,Assignments,0,deleted
+2948,116454,Assignments,0,available
+60673,114974,Assignments,0,available
+3585,106040,Assignments,0,available
+136451,108552,Assignments,0,available
+109445,115533,Assignments,0,deleted
+112674,111367,Assignments,0,available
+34965,106161,Assignments,0,available
+78127,113957,Assignments,0,available
+62227,106486,Assignments,0,available
+101046,106042,Assignments,0,available
+127518,116531,Assignments,0,deleted
+101512,115872,Assignments,0,deleted
+21979,106468,Assignments,0,available
+6942,108134,Assignments,0,available
+117629,116005,Assignments,0,available
+127418,109577,Assignments,0,available
+11766,106491,August 24th,0,available
+133451,113808,Discussions,0,available
+45821,114442,Discussions,0,available
+103322,116674,Final Grade,0,available
+121938,113903,Final Grade,0,available
+110193,116675,Final Grade,0,available
+125794,109800,Case Summary,0,available
+38944,110653,Course Grade,0,available
+96911,110652,Course Grade,0,available
+105895,115586,Course grade,0,available
+134427,115872,Extra Credit,0,available
+142169,106383,Extra Credit,0,available
+96951,110765,Extra Credit,0,available
+6183,116256,Extra Credit,0,available
+26826,105960,Extra Credit,0,available
+124410,110540,Final Grade ,0,available
+51449,114204,Short Essays,0,available
+33379,116424,Short Essays,0,available
+62171,112995,ClassActivity,0,available
+58912,114740,Participation,5,available
+118237,106839,Participation,0,available
+122270,110772,Final Projects,20,available
+36066,110775,Final Projects,20,available
+144693,114104,Lecture Videos,0,available
+86108,109407,Major Projects,30,available
+4361,114323,Participación,7,available
+105557,110042,Participation ,15,available
+83609,116531,Presentaciones,25,available
+35665,107547,Attitude Survey,0,deleted
+21973,105961,Great Adventure,5,available
+84653,108465,Reading Quizzes,5,available
+46816,115218,2017 Quiz Grades,0,available
+89460,114845,Discussion Board,0,available
+67937,113973,Final Grade Info,0,available
+89963,106498,Final Reflection,0,available
+23201,105973,Lecture Homework,0,available
+86740,115118,Essay Assignments,0,available
+28357,106017,Graduate Students,0,available
+123550,114323,Pruebas de vocab.,18,deleted
+21644,110206,Weekly Activities,0,available
+101442,109537,Peer Review Drafts,15,available
+112966,109054,Connect Assignments,0,deleted
+51598,109056,Connect Assignments,0,available
+5830,106850,Final points earned,0,available
+11665,108686,Introductory Module,0,available
+119441,106384,Reading assignments,0,available
+31916,109255,Definition Statement,10,available
+136886,116796,Homework Assignments,30,available
+88000,105966,Homework Assignments,11,available
+4677,116741,Homework Assignments,0,available
+107431,107285,Imported Assignments,0,available
+113292,114078,Participation points,0,available
+147839,109412,Small Stakes Writing,5,available
+106479,106009,Final Semester Grades,0,available
+46628,106499,Individual Assignments,0,available
+62459,109408,Preliminary Reflection,2,available
+135971,110673,Assignments and Quizzes,20,available
+45495,110175,Attendance/Bonus Points,10,available
+120304,111223,Lowest Exam Replacement,0,deleted
+130624,113010,Weekly Dendro Challenge,0,available
+141230,115211,Doing Gender Assignments,0,available
+123710,114104,Introductory Submissions,0,deleted
+2205,116652,Programming Assignment I ,0,deleted
+37439,106041,Class Preparation Materials,0,available
+137892,106037,Class Preparation Materials,0,available
+87181,106038,Class Preparation Materials,0,available
+15175,108209,Individualized Optional X10,0,available
+129317,108208,Individualized Optional X10,0,available
+67514,114740,Reading and video responses,30,available
+7701,109522,Community Engagement Project,0,available
+57660,107547,Unit 1 Reading Assignments & Quizzes,0,deleted
+21910,110987,Homework Assignments (MasteringBiology),0,available
+648,113647,Review (not counted towards final grade),0,available
+126196,116440,GPP,30,available
+96300,116441,GPP,30,available
+88208,110205,EXAM,0,available
+7849,105960,Exam,0,available
+26637,109395,Blogs,20,available
+95090,116652,Exams,0,available
+113490,116270,Exams,0,available
+122453,109054,Exams,0,available
+81567,105966,Exams,80,available
+116830,106000,Exams,0,available
+92686,111598,Memos,0,available
+10342,106674,gRATs,15,available
+5071,115042,Unit 2,0,available
+72825,106827,Pre-Lab,0,available
+6975,113365,Quizzes,0,available
+5260,110673,Quizzes,10,deleted
+18863,105977,Quizzes,34,available
+104828,110036,Quizzes,16,available
+70164,113366,Quizzes,0,available
+131957,110990,Clickers,10,available
+69415,114104,Homework,20,available
+89750,111367,Homework,0,available
+6897,115999,Module 5,0,available
+46586,110778,No grade,0,available
+78437,109800,Projects,0,available
+32287,110774,Projects,40,available
+56764,108134,Quizzes ,0,available
+76521,106475,August 24,0,available
+131418,110666,Project 1,10,available
+79952,117028,テスト,30,available
+66811,109577,Assignment,0,available
+42592,116652,Assignment,0,deleted
+126186,106485,Assignment,0,deleted
+8246,108570,Attendance,0,available
+21793,110341,Attendance,0,deleted
+52495,113973,Discussion,0,available
+145159,116454,Discussion,0,available
+5281,109123,Discussion,0,available
+129113,114223,Discussion,0,available
+131491,107402,Final Exam,25,available
+149052,105961,LearnSmart,5,available
+52277,105963,Learnsmart,8,available
+3143,109959,Mini Cases,15,available
+142354,111173,Paper Quiz,0,available
+114818,114204,Recitation,0,available
+82294,106850,Assessments,100,available
+141852,109537,Assignments,45,available
+144485,113937,Assignments,0,available
+118210,114442,Assignments,0,available
+48788,110042,Assignments,0,deleted
+7541,113808,Assignments,0,available
+126005,116684,Assignments,0,available
+127573,110775,Assignments,0,available
+53030,110772,Assignments,0,available
+14799,114845,Assignments,0,available
+71243,105977,Assignments,66,available
+53620,114481,Assignments,20,available
+4985,107054,Assignments,0,available
+124770,105978,Assignments,0,available
+144264,113934,Assignments,0,available
+64146,116692,Assignments,0,available
+1741,106491,August 31st,0,available
+45080,114230,Book Review,0,available
+143710,106383,Discussions,15,available
+128654,116657,Discussions,10,available
+43406,109255,Peer Review,15,available
+89528,109388,Quiz and HW,10,available
+121902,114161,Test Module,0,deleted
+108299,110341,green books,0,available
+58338,109210,Case Studies,0,available
+122924,106384,Exams-Graded,0,available
+26228,115533,Extra Credit,0,available
+63655,106017,Extra Credit,0,available
+132997,110539,Final Grade ,0,deleted
+65981,114740,Play reviews,20,available
+106275,110175,Vokabeltests,10,available
+79381,116742,Exam Archives,0,available
+94418,106498,Journal Total,0,available
+82721,110181,Participation,15,available
+142717,111039,Participation,0,available
+63111,111038,Participation,0,available
+142236,111037,Participation,0,available
+131697,111046,Participation,0,available
+143498,111042,Participation,0,available
+38118,111049,Participation,0,available
+104466,111052,Participation,0,available
+143456,111036,Participation,0,available
+90085,106973,Participation,12,available
+60617,111041,Participation,0,available
+40806,111043,Participation,0,available
+131236,111050,Participation,0,available
+110760,111053,Participation,0,available
+133155,105979,Participation,7,available
+138100,111040,Participation,0,available
+106472,111045,Participation,0,available
+60921,111048,Participation,0,available
+112860,116424,Revel Quizzes,0,available
+84760,113647,Self and Peer,5,available
+21278,106009,Class Activity,0,deleted
+108577,116256,PreLab Quizzes,15,available
+106700,114572,Chapter Quizzes,0,available
+67300,114570,Chapter Quizzes,0,available
+59410,114571,Chapter Quizzes,0,available
+20082,111225,Closure Quizzes,0,available
+58933,113010,Lecture Quizzes,10,available
+146831,106979,Reading Quizzes,5,available
+93983,109412,Commonplace Book,10,available
+133025,114323,Debates en clase,44,available
+135268,113672,PreClass Quizzes,0,available
+46927,114974,Attendance points,0,available
+106096,106499,Group Assignments,0,available
+17238,114323,Pruebas auditivas,8,deleted
+41292,109440,Reflection Papers,20,available
+121110,109432,Reflection Papers,20,available
+100294,115662,Weekly Lab Points,7,available
+25877,115666,Weekly Lab Points,7,available
+58019,116741,Access Assignments,0,available
+19811,106235,Final Exam Project,14,available
+67938,110633,Homework/Classwork,10,available
+48642,107051,Individual Quizzes,0,available
+69758,111034,Practice Questions,0,available
+86551,109407,Readings/Workshops,20,available
+129795,116652,Top Hat Activities,0,deleted
+126177,116675,Academic Dishonesty,0,available
+101,116674,Academic Dishonesty,0,available
+143423,110652,Class Participation,15,available
+51714,114265,Class Participation,5,available
+106988,105973,Class Participation,0,available
+142579,109056,Connect Assignments,0,deleted
+107294,109396,Essays & paragraphs,50,available
+58518,115118,Group Presentations,0,available
+127820,112993,Learning Assignment,0,available
+68136,106009,Reading Assignments,0,available
+6869,115218,2017 CNM Assignments,0,available
+149283,111223,Current Letter Grade,0,available
+22283,115211,Discussion Questions,0,available
+53601,116036,Homework Assignments,30,available
+108990,112613,Homework Assignments,30,available
+22373,112614,Homework Assignments,30,available
+116629,109328,Imported Assignments,0,deleted
+98014,107547,Imported Assignments,0,deleted
+147374,106040,Imported Assignments,0,available
+120108,107285,Imported Assignments,0,deleted
+13240,107287,Imported Assignments,0,available
+38599,109940,Imported Assignments,0,available
+110048,109941,Imported Assignments,0,available
+110610,106161,Individual Lab Memos,0,available
+131952,116796,Keyboard Assignments,6,available
+150789,114078,Recitation Homework ,0,available
+123068,113903,Research Requirement,0,available
+107415,109426,Small Stakes Writing,5,available
+84745,110539,Attendance Roll Check,0,available
+118110,105960,Annual Report Projects,0,available
+90635,109408,Major Writing Projects,50,available
+60759,110765,Study Question Answers,0,available
+116538,110206,Weekly Reaction Papers,0,available
+137813,109522,Public Analysis Project,0,available
+117506,108552,Course Intro Assignments,0,available
+84248,109124,Evaluation and Reflection,0,available
+140181,116377,Learning Catalytics - Raw,0,available
+107309,108686,Module #1: Getting Acquainted,0,available
+46962,108465,Class Participation (iClicker),5,available
+62967,116531,Contribución y Participación,20,available
+1067,107547,Unit 2 Reading Assignments & Quizzes,0,deleted
+71146,106469,Productivity Apps for School and Work,0,available
+83561,106468,Productivity Apps for School and Work,0,available
+53602,110987,In-Class Exercises (LC + Group Activities),0,available
+92271,108208,Personal Report of Public Speaking Anxiety,0,available
+81885,116020,Class Preparation Materials (by class date),0,available
+1173,108559,Quizzes (25% of your Total Grade / 8 are REQUIRED),25,available
+7497,106037,"In-class work - labs, activities, discussions, Etc.",0,available
+48451,109328,Nebraska Extension Guide and Nebraska History Summaries ,20,available
+81178,106672,Roll Call (absent for (3) or more classes = failing grade),0,available
+23669,106038,In-class work - complete and submit by the end of class time,0,available
+64698,106041,In-class work - complete and submit by the end of class time,0,available
+51483,110540,Introducing Introducing Yourself to Class! ~~~~ Extra 20 bonus points. ,0,available
+128214,109388,WP1,20,available
+24034,116020,Exam,20,available
+56006,109124,Memo,0,available
+19994,113973,R&As,0,available
+28852,115594,Test,0,available
+103425,113365,EXAMS,0,available
+76579,106017,Exams,0,available
+71823,108134,Exams,0,available
+64575,116741,Exams,0,available
+129337,110987,Exams,0,available
+14737,105973,Exams,0,available
+54470,115533,Exams,60,available
+17958,106383,Exams,85,available
+13821,113808,Paper,0,available
+77162,116440,Tests,30,available
+131584,116441,Tests,30,available
+37582,114223,Papers,0,available
+41937,107402,TopHat,4,available
+78212,115042,Unit 3,0,available
+101266,111173,Gateway,0,available
+144843,113672,Overall,0,available
+90806,114323,Paquete,12,available
+3771,116454,Project,0,available
+43489,109959,Quizzes,9,available
+43248,111259,Quizzes,10,available
+47849,113934,Quizzes,0,available
+41458,114442,Quizzes,0,available
+72052,109395,Quizzes,10,available
+27753,106839,Quizzes,10,available
+90605,111598,Quizzes,0,available
+48236,106827,Quizzes,0,available
+145055,114078,Quizzes,0,available
+85261,114230,Quizzes,0,available
+64119,106499,Quizzes,0,available
+90252,110990,Surveys,2,available
+126852,111034,Surveys,2,available
+46647,110341,quizzes,0,available
+107527,110774,Chapters,0,deleted
+144472,105963,Homework,10,available
+2520,105961,Homework,10,available
+105977,116657,Journal ,10,available
+91664,112995,Maple TA,0,deleted
+91120,114161,Module 1,0,available
+19247,115999,Module 4,0,available
+106593,109210,Readings,0,available
+103873,106475,August 29,0,available
+117764,110652,Oral Exam,15,available
+87349,110673,Project 1,16,available
+123203,110666,Project 2,7,available
+66674,110206,Assignment,0,deleted
+37653,113010,Assignment,10,available
+95799,114974,Attendance,0,deleted
+65146,113366,LearnSmart,0,available
+20613,109255,Lit Review,40,available
+80105,116424,Recitation,0,available
+126579,115533,Recitation,0,deleted
+70840,109440,Assignments,0,available
+74603,109800,Assignments,0,available
+97512,107285,Assignments,0,available
+120366,106498,Assignments,0,available
+123162,112995,Assignments,40,available
+74135,109432,Assignments,0,available
+41044,106000,Assignments,0,available
+144608,110765,Assignments,0,available
+41482,109056,Discussions,0,available
+84401,109537,Discussions,30,available
+1018,106037,Peer Review,0,available
+72109,110036,Pop quizzes,5,available
+110595,106674,RAT appeals,0,available
+83912,110772,Reflections,15,available
+139536,110775,Reflections,15,available
+46176,106672,Assignment-1,10,available
+22500,115118,Extra Credit,0,available
+12525,109054,Extra Credit,0,available
+123161,105960,Learn Smarts,0,available
+141695,113647,Reading Quiz,5,available
+47350,107051,Team Quizzes,0,available
+91651,106469,Word Unit #1,0,available
+36139,106468,Word Unit #1,0,available
+80353,114481,Participation,10,available
+42286,110175,Participation,10,available
+99336,109396,Quizzes/Tests,30,available
+65159,106491,September 7th,0,available
+51854,116796,Timed Quizzes,9,available
+45621,110540,Chapter Tests ,0,available
+144899,109407,Group Projects,30,available
+130336,114204,MAP Assignment,0,available
+7658,106161,Team Lab Memos,0,available
+76561,115211,Thought Papers,0,available
+25086,110539,Maple TA Access,0,available
+70052,106973,PreClassQuizzes,10,available
+99860,109123,Readings/Videos,0,available
+26800,113903,Assigned Reading,0,deleted
+86234,109426,Commonplace Book,10,available
+128860,110042,Creative Project,20,available
+32370,110778,Enterprise Story,25,available
+93436,111225,Homework Quizzes,0,available
+95482,115666,Learning Quizzes,15,available
+124040,116377,Pre-class Videos,4,available
+35026,115662,Unit Lab Quizzes,3,available
+146729,106235,Lesson Worksheets,7,available
+22758,112993,Content Reflection,0,available
+119223,106038,Course Assignments,0,available
+75524,106041,Course Assignments,0,available
+36993,116270,Final Letter Grade,0,available
+50658,111043,Weekly Lab Quizzes,0,available
+141798,115872,Weekly Reflections,30,available
+87911,106009,Chapter Pre Quizzes,0,available
+33978,115586,Class Participation,15,available
+79006,110653,Class Participation,15,available
+90811,110633,Out-of-class Essays,30,available
+41653,108208,Chapter 2 activities,0,available
+128564,106850,CyberSheep Decisions,0,deleted
+68199,107054,Imported Assignments,0,available
+106217,116005,Imported Assignments,0,available
+68973,107287,Imported Assignments,0,available
+116107,116692,Imported Assignments,0,available
+72763,116684,Imported Assignments,0,available
+7104,106979,In-Class Assignments,5,available
+88191,112614,Keyboard Assignments,6,available
+10373,112613,Keyboard Assignments,6,available
+114073,109522,Small Stakes Writing,0,available
+28921,106009,Vocabulary Worksheet,0,deleted
+5339,108552,Discussion Assignment,0,available
+80008,113903,Recitation Attendance,0,available
+48286,116531,Tareas y Preparación,20,available
+120914,114740,Giant Shoulders Project,15,available
+21743,110539,Maple TA Student Access,0,deleted
+84299,114104,Supplemental Activities,10,available
+6422,111038,Touch Table Assignments,0,available
+3650,111045,Touch Table Assignments,0,available
+58074,111050,Touch Table Assignments,0,available
+115941,111049,Touch Table Assignments,0,available
+58771,111040,Touch Table Assignments,0,available
+16496,111042,Touch Table Assignments,0,available
+7187,111046,Touch Table Assignments,0,available
+117885,111037,Touch Table Assignments,0,available
+66219,111052,Touch Table Assignments,0,available
+3865,111041,Touch Table Assignments,0,available
+17765,111048,Touch Table Assignments,0,available
+67439,111036,Touch Table Assignments,0,available
+130075,111053,Touch Table Assignments,0,available
+70124,111039,Touch Table Assignments,0,available
+10995,115218,2017 CNM Quizzes & Exams,0,available
+117994,114323,Elige tu propia aventura,12,deleted
+97468,113937,Extra credit assignments,0,available
+15108,108465,Class Participation (Labs),20,available
+146665,117028,インタビューテスト,10,available
+102806,117028,インタビューテスト,10,deleted
+52130,109328,Participation and Attendance,6,available
+3354,110181,Performance-Based Assessments ,30,available
+64070,116674,Recitation 1-Scientific Method,0,available
+50778,116675,Recitation 1-Scientific Method,0,available
+140596,105979,Homework - Incorrectly computed,0,available
+38768,109408,Discussion Forum Posts & Replies,30,available
+117272,114265,Instructor-Led In-Class Activities,5,available
+50717,109412,"Drafts, workshops, and participation",10,available
+13555,108686,Module #2--History of Our Profession,0,available
+28183,107547,Unit 3 Reading Assignments & Quizzes,0,deleted
+3568,106384,Optional Review sessions with the GTA,0,available
+11976,108209,Personal Report of Public Speaking Anxiety,0,available
+144638,105966,"Quizzes, Participation Points, Excel Projects",11,available
+10915,108559,Active Learning Assignments (25% of your Total Grade / 8 are REQUIRED),25,available
+65485,109388,WP2,25,available
+38030,110181,Exam,10,available
+112744,112995,Labs,26,available
+131140,105963,Quiz,10,available
+101070,106485,Test,0,deleted
+74012,113672,Test,0,deleted
+1700,113366,EXAMS,0,available
+1037,114845,Exams,0,available
+115818,114104,Exams,75,available
+54619,106979,Exams,30,available
+90719,114442,Exams,0,available
+143904,109959,Exams,65,available
+6502,113010,Exams,20,available
+64780,113672,Exams,0,available
+88914,116454,Paper,0,available
+146693,106839,Tests,60,available
+20638,110765,Tests,0,available
+83445,110341,paper,0,available
+21277,116796,Exam 1,15,available
+121765,114481,Exam 1,15,available
+32777,110036,Midterm,13,available
+117955,114323,Paquete,12,deleted
+38835,106017,Quizzes,0,available
+150698,106235,Quizzes,18,available
+113675,108208,Quizzes,0,available
+120837,111223,Quizzes,0,available
+11914,105961,Quizzes,10,available
+42956,113808,Quizzes,0,available
+117660,110775,Twitter,15,available
+59482,110772,Twitter,15,available
+4937,110653,Homework,10,available
+117818,110652,Homework,10,available
+110737,115586,Homework,10,available
+46936,113647,Homework,10,available
+9459,111259,Homework,40,available
+135363,105960,Homework,0,available
+149438,114265,Journals,5,available
+102279,114161,Module 2,0,available
+41813,115999,Module 3,0,available
+34460,109537,Readings,0,available
+771,109522,Readings,0,available
+39607,113903,iclicker,0,available
+7025,106475,August 31,0,available
+107644,107402,Assignment,22,available
+9188,113366,Attendance,0,deleted
+42680,115594,Discussion,0,available
+88969,106973,Exam Links,60,available
+106639,106383,Field trip,0,available
+3415,109395,Not Graded,0,available
+96581,110175,vocab quiz,10,deleted
+142130,115218,Assignments,0,available
+8979,107402,Assignments,0,deleted
+1771,111173,Assignments,0,available
+149984,112993,Assignments,0,available
+90326,109396,Assignments,20,available
+122647,108465,Assignments,45,available
+111871,115042,Assignments,0,available
+147686,109123,Assignments,0,available
+81379,109054,Assignments,0,deleted
+109173,111225,Assignments,0,available
+139356,110774,Assignments,60,available
+41451,106009,Assignments,0,deleted
+85197,106038,Peer Review,0,available
+38712,116531,Reflexiones,15,available
+20211,106674,Applications,20,available
+28501,106672,Assignment-2,20,available
+89665,105973,Extra Credit,0,available
+1463,109800,Extra Credit,0,available
+114994,110042,Group Paper ,15,available
+38616,109255,Presentation,5,available
+111080,110539,Preview Quiz,0,available
+120952,106468,Word Unit #2,0,available
+41935,106469,Word Unit #2,0,available
+18187,117028,さくぶん,10,available
+34055,110987,4-Week Grades,0,deleted
+139284,115211,Current Event,0,available
+119062,114223,Group Project,0,available
+80552,106827,Lab Practical,0,available
+7052,111598,Midterm exams,0,available
+117496,109328,Noun Practice,1,available
+100733,109210,Pre/Post-Test,0,available
+44400,116741,Presentations,0,available
+125842,112613,Timed Quizzes,9,available
+83714,112614,Timed Quizzes,9,available
+108439,106161,Class Homework,0,available
+47625,114740,History letter,10,available
+58884,116424,MAP Assignment,0,available
+91385,108209,Poll Questions,0,available
+102451,113934,Research Demos,0,available
+72367,106491,September 14th,0,available
+116809,107051,Team Exercises,0,available
+48436,115533,Lecture Clicker,10,deleted
+130223,116256,Post Assignment,20,available
+78644,108552,VC Rough Drafts,0,available
+149983,114204,Discussion Posts,0,available
+126979,110990,MasteringBiology,18,available
+143612,116377,MasteringBiology,10,available
+77527,111034,Pre-class Videos,4,available
+4922,109412,Writing Projects,30,available
+89262,116742,Weekly Lab Points,7,available
+71457,109440,Writing Narrative,10,available
+149708,109432,Writing Narrative,10,available
+50102,116652,Zyante Activities,0,available
+19675,107285,Attendance Quizzes,0,available
+100411,106037,Course Assignments,0,available
+101968,113973,Discussion leading,0,available
+6972,116441,HTWFDA Reflections,10,available
+102533,116440,HTWFDA Reflections,10,available
+59123,106009,Online Assignments,0,available
+71904,107410,Primary Literature,0,available
+4148,111048,Weekly Lab Quizzes,0,available
+76472,111039,Weekly Lab Quizzes,0,available
+131904,111040,Weekly Lab Quizzes,0,available
+109622,111045,Weekly Lab Quizzes,0,available
+140360,111038,Weekly Lab Quizzes,0,available
+64634,111046,Weekly Lab Quizzes,0,available
+80646,111041,Weekly Lab Quizzes,0,available
+113109,111042,Weekly Lab Quizzes,0,available
+131065,111053,Weekly Lab Quizzes,0,available
+38126,111052,Weekly Lab Quizzes,0,available
+2306,111036,Weekly Lab Quizzes,0,available
+79363,111037,Weekly Lab Quizzes,0,available
+129655,111050,Weekly Lab Quizzes,0,available
+59688,111049,Weekly Lab Quizzes,0,available
+19525,115118,In-class assignment,0,available
+137219,113937,Learning Catalytics,0,available
+143198,115666,Problem Set Quizzes,15,available
+68437,115662,Problem Set Quizzes,15,available
+50057,110206,Imported Assignments,0,deleted
+19425,116657,Imported Assignments,0,deleted
+123,109056,Imported Assignments,0,available
+102710,116684,Imported Assignments,0,available
+97696,116036,Keyboard Assignments,6,available
+133119,110987,5-Week Homework Grade,25,deleted
+11476,110987,9-Week Homework Grade,25,deleted
+99014,106384,Extra Credit tracking,0,available
+89239,106498,Transformational Total,0,available
+144201,110540,Individual Assignments ,0,available
+147966,110666,Project 2 Participation,3,available
+77898,111043,Touch Table Assignments,0,available
+2783,109407,Attendance/Participation,10,available
+73830,115872,Attendance & Participation,20,available
+84489,114323,Desafío de circunlocución,8,available
+126175,110778,Participation and Notecards,3,available
+136029,105979,Quiz - Incorrectly computed,0,available
+132908,114230,Final Paper and Presentation,0,available
+1427,108134,Attendance and Participation ,0,available
+8168,116020,In-Class Work (by class date),0,available
+26521,116675,"Lab 1-Molecules, Water and pH",0,available
+100899,116674,"Lab 1-Molecules, Water and pH",0,available
+7553,113365,PRE & POST FITNESS ASSESSMENTS,0,available
+73221,108570,Quizzes and/or Active Learning,0,available
+97075,110633,Extensive Reading/Reading Reports,15,available
+2646,114078,Group CREs and Module Assessments,0,available
+149590,106041,Peer Feedback & Review Assignments,0,available
+57150,109408,Peer Review Letters + Margin Notes,10,available
+114542,109426,"Drafts, workshops, and participation",10,available
+64539,108686,Module #3--History of the Profession,0,available
+24112,107547,Unit 4 Reading Assignments & Quizzes,0,deleted
+107231,108559,SLO - Student Learning Objective (20% of your Total Grade),20,available
+53377,116652,TROUBLESHOOTING A PROBLEM - PLEASE IGNORE (Andy Frederick),0,deleted
+138144,109388,WP3,25,available
+144149,110652,Quiz,10,available
+139461,115586,Quiz,10,available
+88755,116454,Quiz,0,available
+69528,110653,Quiz,10,available
+67356,110206,Test,0,available
+68447,110539,Exam ,42,deleted
+46719,105961,Exams,68,available
+49624,108570,Exams,0,available
+3633,108465,Exams,25,available
+81009,113808,Exams,0,available
+39248,109210,Exams,0,available
+96537,113934,Exams,0,available
+137715,111223,Exams,0,available
+66890,109056,Exams,0,available
+46379,114230,Exams,0,available
+76012,110036,Final,18,available
+109934,112613,Exam 1,15,available
+136362,112614,Exam 1,15,available
+103439,114481,Exam 2,15,available
+82001,116796,Exam 2,20,available
+46575,111259,Exam I,15,available
+53368,107402,Survey,0,available
+88219,116531,Pruebas,15,available
+57057,106161,Quizzes,0,available
+141785,114223,Quizzes,0,available
+88834,106850,Quizzes,100,deleted
+81778,109800,Quizzes,0,available
+25590,114265,Homework,15,available
+67405,110175,Homework,20,available
+47644,112995,Maple TA,0,available
+25868,115872,Mid-Term,20,available
+88015,115999,Module 2,0,available
+127479,114161,Module 3,0,available
+138562,105979,Practice,0,available
+39872,109959,Practice,0,deleted
+12506,116741,Projects,0,available
+88873,113973,Readings,0,available
+65164,110772,Exercises,15,available
+31544,110775,Exercises,15,available
+26891,113672,Home Work,0,available
+92753,106498,P&I Total,0,available
+80156,109412,Portfolio,45,available
+44839,110666,Project 3,14,available
+138729,112993,Assignment,0,deleted
+37663,110341,Attendance,0,available
+114852,106235,Discussion,20,available
+141981,106485,Discussion,0,deleted
+81099,106979,Final Exam,30,available
+142849,113010,Final Exam,10,available
+143464,114323,Gramática,29,available
+117951,116256,Unit Exams,40,available
+119208,106017,Assignments,0,available
+122343,116020,Brainscapes,10,available
+49396,106475,September 5,0,available
+128319,106672,Assignment-3,30,available
+40495,110539,Chapter Test,0,available
+76619,106827,Extra Credit,0,available
+134169,115662,Extra Credit,0,available
+29284,109255,Introduction,10,available
+28411,114204,Office Visit,0,available
+33048,106468,Word Unit #3,0,available
+98054,106469,Word Unit #3,0,available
+61192,114078,Final Project,0,available
+62717,113647,In-class work,10,available
+102966,109408,Short Quizzes,3,available
+109695,111043,TOL Worksheet,0,available
+7951,116036,Timed Quizzes,9,available
+13907,109537,Author's Notes,10,available
+23565,111598,Paper previews,0,available
+12574,114323,Participación,18,deleted
+82698,108208,Poll Questions,0,available
+60581,106973,Practice Exams,0,available
+63757,115118,Research Paper,0,available
+56547,106491,September 21st,0,available
+39392,106491,September 28th,0,deleted
+64411,114740,Textbook exams,10,available
+67184,109407,Final Portfolio,10,available
+68710,105963,Great Adventure,8,available
+126647,110633,In-class Essays,15,available
+93,110987,5-Week ICX Grade,25,deleted
+91299,109432,Discussion Board,10,available
+21399,109440,Discussion Board,10,available
+17274,116424,Discussion Posts,0,available
+28746,110990,Homework Quizzes,20,available
+14578,107051,Individual Exams,0,available
+82413,116742,Learning Quizzes,15,available
+59269,116531,Listas de Vocab.,5,deleted
+59049,111034,MasteringBiology,10,available
+33660,109328,Pronoun Practice,1,available
+45902,106674,Self-Reflections,5,available
+10183,115666,Unit Lab Quizzes,3,available
+26234,109426,Writing Projects,30,available
+4575,105973,Excel Assignments,0,available
+89562,110765,Case Presentations,0,available
+95337,115211,Group Blog Project,0,available
+11086,109522,Literacy Narrative,0,available
+68140,116377,Post-class Quizzes,4,available
+113012,110181,Vocabulary Quizzes,10,available
+68288,117028,プロジェクト,10,available
+64239,109054,Connect Assignments,0,available
+95076,110042,Group Presentation ,10,available
+143780,108209,Chapter 2 activities,0,available
+146920,116684,Imported Assignments,0,available
+33506,106009,Post Chapter Quizzes,0,available
+104876,110987,9-Week In-Class Grade,25,deleted
+49165,113903,LearningCurve quizzes,0,available
+96552,105960,Master Budget Project,0,available
+40589,110673,Project 1 Peer Review,4,available
+38685,106037,Additional Assessments,0,deleted
+118401,106038,Additional Assessments,0,deleted
+71813,106041,Additional Assessments,0,deleted
+94841,116440,HW & Class Assignments,20,available
+80765,116441,HW & Class Assignments,20,available
+44228,116652,Programming Assignments,0,available
+68129,113365,DIETARY RECALL ASSIGNMENT,0,available
+28884,108552,Virtual Child Peer Review,0,available
+38776,115218,2017 Endocrine Assignments,0,available
+108607,116657,Engagemeht (Participation),10,available
+65040,110540,Group Chapter Discussions ,0,available
+103925,114104,Learning Catalyics Attendance,0,available
+87467,111050,Turnitin Write-up Assignments,0,available
+96873,111046,Turnitin Write-up Assignments,0,available
+101541,111040,Turnitin Write-up Assignments,0,available
+112147,111053,Turnitin Write-up Assignments,0,available
+84496,111038,Turnitin Write-up Assignments,0,available
+122437,111052,Turnitin Write-up Assignments,0,available
+44424,111045,Turnitin Write-up Assignments,0,available
+97499,111041,Turnitin Write-up Assignments,0,available
+254,111042,Turnitin Write-up Assignments,0,available
+104637,111049,Turnitin Write-up Assignments,0,available
+39090,111039,Turnitin Write-up Assignments,0,available
+8806,111036,Turnitin Write-up Assignments,0,available
+121109,111037,Turnitin Write-up Assignments,0,available
+6593,111048,Turnitin Write-up Assignments,0,available
+119523,113366,PRE & POST FITNESS ASSESSMENTS,0,available
+113263,110778,Meeting/Speech/Hobbyist/Deadline,40,available
+1430,107547,Unit 5 Reading Assignments & Quizzes,0,deleted
+36111,106839,"Labs, softchalk, & in-class activities",15,available
+63617,116675,Recitation 2-Bioethics and Abstract Writing,0,available
+49060,116674,Recitation 2-Bioethics and Abstract Writing,0,available
+85413,108559,Mid-Term Fall 2017 (15% of your Total Grade),15,available
+29582,113973,Unit 2: Research methods & Replication crisis,0,deleted
+27213,108686,Module #4 -- Ellen Richards & Professional Organizations,0,available
+121816,109388,RR1,5,available
+112453,116652,Labs,0,available
+97092,108465,Meta,0,available
+27765,107402,Test,4,available
+136297,109800,Exams,0,available
+124817,114223,Exams,0,available
+140106,106161,Exams,0,available
+31967,110990,Exams,50,available
+80998,114204,Exams,0,available
+9099,115211,Exams,0,available
+136056,105963,Exams,65,available
+43082,115872,Final,30,available
+55702,116036,Exam 1,15,available
+128793,112613,Exam 2,20,available
+7199,112614,Exam 2,20,available
+110782,106485,Journal,0,available
+100917,114265,Project,15,available
+54088,113647,Quiz #1,15,available
+130334,110775,Quizzes,20,available
+71629,108209,Quizzes,0,available
+106303,110772,Quizzes,20,available
+132986,116377,Surveys,0,available
+86339,115999,Module 1,0,available
+36957,114161,Module 4,0,available
+95922,113672,Projects,0,available
+67983,109412,Readings,0,available
+51474,109426,Portfolio,45,available
+129055,106037,Revisions,0,deleted
+36559,106038,Revisions,0,deleted
+107264,106041,Revisions,0,deleted
+90651,111046,Ace Report,0,deleted
+129376,111052,Ace Report,0,deleted
+25605,111050,Ace Report,0,deleted
+61533,111049,Ace Report,0,deleted
+9574,111039,Ace Report,0,deleted
+97374,111041,Ace Report,0,deleted
+79798,111043,Ace Report,0,deleted
+34493,111037,Ace Report,0,deleted
+69455,111036,Ace Report,0,available
+129880,111040,Ace Report,0,deleted
+117056,111038,Ace Report,0,deleted
+9900,111042,Ace Report,0,deleted
+16069,111045,Ace Report,0,deleted
+41457,111053,Ace Report,0,deleted
+51407,111048,Ace Report,0,deleted
+129428,106017,Attendance,0,available
+17037,116796,Final Exam,20,available
+43211,114481,Final Exam,20,available
+97000,109522,Assignments,0,available
+102053,110778,Assignments,25,available
+85995,109054,Discussions,0,deleted
+88459,115118,Discussions,0,available
+111249,110206,Final Paper,0,available
+134607,110341,Green books,0,deleted
+65118,113010,Lab Quizzes,35,available
+133496,106475,September 7,0,available
+46883,110036,Compositions,10,available
+36080,109056,Extra Credit,0,available
+6916,113808,Extra Credit,0,available
+71088,107051,Extra Credit,0,available
+57626,106235,Extra Credit,0,available
+117472,116424,Office Visit,0,available
+148689,106468,Word Unit #4,0,available
+99645,106469,Word Unit #4,0,available
+82250,110652,Written Exam,35,available
+60475,115586,Written Exam,35,available
+34966,110653,Written Exam,35,available
+149449,106839,Group Project,15,available
+15126,106850,Lab Exercises,100,deleted
+21530,110042,MidTerm Paper,15,available
+53302,109440,Participation,15,available
+82942,109210,Participation,0,available
+20813,116741,Participation,0,available
+15931,110765,Participation,0,deleted
+30902,109432,Participation,15,available
+150550,109328,Verb Practice,1,available
+56397,114230,Journal Essays,0,available
+64205,106674,Mid-term Exam.,15,available
+90321,115666,Review Quizzes,10,available
+28347,106491,September 28th,0,available
+110149,116440,Team Peer Eval,5,available
+128632,116441,Team Peer Eval,5,available
+27515,112995,Readiness Tests,18,available
+122533,110175,Schlussprüfung,10,available
+15728,117028,しゅくだい,10,available
+90924,110539,Chapter Homework,0,available
+77858,113903,Exam 1 Fall 2017,0,available
+82580,114740,Final Assignment,10,available
+18992,110540,Group Case Study,0,available
+49150,115662,Learning Quizzes,15,available
+123802,116256,Lecture Activity,5,available
+4399,106672,Weekly Responces,20,available
+91274,116657,Workshop Reviews,10,available
+132175,110987,5-Week Exam Grade,50,deleted
+130499,110987,9-Week Exam Grade,50,deleted
+104285,116020,Course Assignments,0,available
+109131,111598,Paper rough drafts,0,available
+85474,109255,Procedural Diagram,5,available
+59271,116742,Problem Set Quizzes,15,available
+74894,113973,Research Term Paper,0,available
+68347,108552,Virtual Child Paper,0,available
+44866,106009,Chapter Case Studies,0,available
+86244,116684,Imported Assignments,0,deleted
+142683,106973,Experiential Projects,6,available
+23698,105961,Professional Behavior,2,available
+119662,115218,2017 Endocrine Quizzes,0,available
+59419,110673,Written Grant Proposal,3,available
+113346,108208,Extemporaneous Speeches,0,available
+101288,116531,Evaluación del servicio,5,available
+63453,114078,Extra Credit Assignments,0,available
+10076,113365,Extra Credit Study/Paper,0,available
+100457,106498,Servant Leadership Total,0,available
+130541,113366,Dietary Recall Assignment,0,available
+33671,111034,Learning Catalytics - Raw,0,available
+20682,110666,Project 3 Individual Grade,6,available
+94047,109408,Virtual Group Presentation,5,available
+27935,114323,Conversación/Presentación,30,deleted
+136726,110181,Final Exam: Schlußprüfung,9,available
+6431,105973,Recitation Attendance Quizzes,0,available
+55333,111043,Turnitin Write-up Assignments,0,available
+128150,116675,Lab 2-Cell Structure and Function,0,available
+132083,116674,Lab 2-Cell Structure and Function,0,available
+58417,108686,Module #5 -- Philosophical Underpinnings,0,available
+112368,108559,Final Fall 2017 (15% of your Total Grade),15,available
+60110,110633,Tests/Quizzes/Final Writing/Reading Projects,30,available
+146731,109388,RR2,5,available
+92121,110539,Exam ,0,available
+705,112995,Exams,45,available
+42302,108552,Exams,0,available
+3504,113973,Exams,0,available
+46973,116424,Exams,0,available
+44029,116036,Exam 2,20,available
+149742,114223,Survey,0,available
+17134,111259,Exam II,15,available
+121108,113647,Quiz #2,15,available
+26201,109210,Quizzes,0,available
+117632,110181,Quizzes,10,available
+34254,114265,Quizzes,10,available
+66617,116657,Quizzes,10,available
+38249,113808,Surveys,0,available
+54525,114161,Module 5,0,available
+38910,109426,Readings,0,available
+39903,110036,Rewrites,5,available
+60297,113010,Lab Final,15,available
+6494,110653,Oral Exam,15,available
+139287,115586,Oral Exam,15,available
+38762,106469,Unit Test,0,available
+48848,106468,Unit Test,0,available
+51944,110175,portfolio,2,available
+20128,116652,Attendance,0,available
+9607,106850,Attendance,100,deleted
+14754,107402,Discussion,0,available
+9390,106672,Final Exam,0,available
+98575,112613,Final Exam,20,available
+47884,112614,Final Exam,20,available
+130599,110772,Newsletter,15,available
+138793,110775,Newsletter,15,available
+42887,107547,Assignments,0,available
+38404,110206,Final Grade,0,available
+33360,111598,Final paper,0,available
+79512,106491,October 5th,0,available
+123217,114323,Reflexiones,2,deleted
+37852,115666,Extra Credit,0,available
+97821,116741,Extra Credit,0,available
+15039,116256,Lab Activity,20,available
+140350,110652,Presentation,5,available
+147617,106475,September 12,0,available
+139629,110540,Group Project,0,available
+111288,116674,Lab 3-Enzymes,0,available
+84041,116675,Lab 3-Enzymes,0,available
+1281,116441,Participation,5,available
+138174,116440,Participation,5,available
+38690,113672,Participation,0,available
+135952,111045,TOL Worksheet,0,available
+77720,111049,TOL Worksheet,0,available
+40582,111039,TOL Worksheet,0,available
+1580,111048,TOL Worksheet,0,available
+83280,111053,TOL Worksheet,0,available
+4269,111046,TOL Worksheet,0,available
+47980,111037,TOL Worksheet,0,available
+53850,111038,TOL Worksheet,0,available
+72124,111036,TOL Worksheet,0,available
+106343,111052,TOL Worksheet,0,available
+50301,111042,TOL Worksheet,0,available
+21324,111040,TOL Worksheet,0,available
+16120,111041,TOL Worksheet,0,available
+38552,111050,TOL Worksheet,0,available
+150386,109440,Research Paper,15,available
+65614,109432,Research Paper,15,available
+20370,115662,Review Quizzes,10,available
+28302,106973,Maple TA Access,0,available
+35603,109056,Video Summaries,0,available
+146031,106009,Class Activities,0,available
+196,114740,Production Hours,0,available
+80537,108208,Self Evaluations,0,available
+112662,116742,Unit Lab Quizzes,3,available
+23439,109328,Adjective Practice,1,available
+123881,110673,Individual Webinar,14,available
+114743,110539,Maple TA Resources,0,deleted
+134761,116377,Surveys - rescaled,2,available
+60998,113934,Class Participation,0,available
+82469,111034,Learning Catalytics,13,available
+7478,115118,Imported Assignments,0,available
+114428,105963,Imported Assignments,0,available
+145825,110765,Imported Assignments,0,available
+68370,109054,Imported Assignments,0,available
+131154,106674,Mid-term Peer Review,0,available
+25386,110987,Total Course Points ,100,available
+7224,116424,Revel Chapter Quizzes,0,deleted
+773,114204,Revel Chapter Quizzes,0,available
+28939,115218,2017 Repro Assignments,0,available
+143113,113903,Exam 1 HONORS Fall 2017,0,available
+29894,108209,Extemporaneous Speeches,0,available
+79551,109800,Quiz 6 Original Attempt,0,available
+36069,110042,Reflection on Feedback ,10,available
+50990,113366,Extra Credit Study/Paper,0,available
+70320,110666,Project 4 Progress report,2,available
+26051,115211,Discussion & Participation,0,available
+147208,109255,Preparation/Article Summaries,5,available
+28551,114230,"Hybrid Class November 20th, 2017",0,available
+97998,109522,*optional* Final Revision Project,0,available
+99175,108570,Group Presentations AND Extra Credit,0,available
+130184,116020,Issues Paper and Debate (due dates TBD),25,available
+87323,108686,Module #6 -- Legislation & Career Clusters,0,available
+70615,117028,アテンダンス／パーティシペーション,15,available
+119565,108559,Practice Exams (Do NOT count toward your Total Grade),0,available
+142023,110036,HW2,8,available
+50988,113672,Lab,0,available
+33452,114265,Exams,20,available
+69212,109054,Exams,0,available
+9558,111259,Final,20,available
+48161,112995,Exam 1,8,available
+4678,110540,Exams ,0,available
+30567,110175,podcast,5,available
+119571,110181,Oral Exam,5,available
+139337,110666,Project 4,12,available
+134185,116036,Final Exam,20,available
+90106,115662,Assignments,0,available
+108257,115666,Assignments,0,available
+64201,110042,Final Exam ,15,available
+41092,106674,Final Exam.,20,available
+142632,113672,SpreadSheet,0,deleted
+73525,110539,Bonus Points,0,available
+85837,106009,Bonus Points,0,available
+44516,108552,Extra Credit,0,available
+128704,114230,Extra Credit,0,available
+98365,114740,Extra credit,0,available
+124372,113647,Midterm Exam,15,available
+120169,106491,October 12th,0,available
+128231,110653,Presentation,5,available
+134020,115586,Presentation,5,available
+36692,106475,September 14,0,available
+112801,109432,Final Project,30,available
+66370,109440,Final Project,30,available
+83888,110652,Final Project,10,available
+87163,116652,Overall Grade,0,available
+93869,111598,Presentations,0,available
+46607,116424,Syllabus Test,0,deleted
+137380,116742,Review Quizzes,10,available
+141285,109328,Adverb Practice,1,available
+82025,109210,Research Credit,0,available
+60141,109056,Article Analysis,0,available
+108345,116657,In-Class Writing,10,available
+59185,113903,Recitation paper,0,available
+92156,108209,Self Evaluations,0,available
+144712,109800,Attend & Particip,0,available
+76907,113973,Other Assignments,0,available
+36436,115218,2017 Repro Quizzes,0,available
+6296,110987,Final Letter Grade,0,available
+106941,111034,Post-class Quizzes,4,available
+82960,106468,PowerPoint Unit #1,0,available
+43519,106469,PowerPoint Unit #1,0,available
+115972,116377,Learning Catalytics,13,available
+40286,114223,Imported Assignments,0,available
+85529,110772,Imported Assignments,0,available
+115176,105973,Excel Partner Evaluations,0,available
+120459,116020,Pre-suasion Book assignment,20,available
+49171,109255,Punctuality & Participation,10,available
+83497,114161,GFTA Creation & Transcription,0,available
+113112,110673,Project 2 Peer Evaluation Grade,3,available
+15217,116675,Recitation 3-Respiration Module,0,available
+53774,116674,Recitation 3-Respiration Module,0,available
+116471,109388,Participation (factored in at end),10,available
+117693,108686,Module #7 & 8: State CATE & FCS Curriculum,0,available
+82771,108208,Final Persuasive Speech of Community Connection,0,available
+40845,110036,HW1,5,available
+105023,116377,Exams,65,available
+19008,111034,Exams,65,available
+46818,105973,Total,0,available
+137602,109577,Journal,0,available
+121914,112995,Quizzes,15,available
+20373,110042,Readings,0,available
+52585,109255,Readings,0,available
+119225,110673,Project 3,20,available
+57742,111598,Attendance,0,available
+88974,113647,Final Exam,25,available
+93144,109210,Final Grade,0,available
+127189,116742,Extra Credit,0,available
+49812,109054,Extra Credit,0,deleted
+20656,106491,October 19th,0,available
+84328,106475,September 19,0,available
+4161,115586,Final Project,10,available
+67763,110653,Final Project,10,available
+99520,110175,presentations,3,available
+126668,115662,TA Evaluations,0,available
+114151,113903,Exam 2 Fall 2017,0,available
+107542,106009,Grade Reductions,0,available
+89969,108208,Peer evaluations,0,available
+58331,108209,Peer evaluations,0,available
+56784,114161,Assessment Project,0,available
+75398,106468,PowerPoint Unit #2,0,available
+9951,106469,PowerPoint Unit #2,0,available
+99069,116020,Final group project,25,available
+111667,106486,Imported Assignments,0,available
+67145,115218,Imported Assignments,0,available
+36968,114204,Imported Assignments,0,available
+41449,115666,Imported Assignments,0,available
+98499,109328,Preposition Practice,1,available
+10175,106674,Roll Call Attendance,0,available
+94400,110181,Final Exam: Portfolio,1,available
+100281,110666,Project 4 Participation,6,available
+127244,114230,Honors Project: Sarah French,0,available
+135456,116657,Academic Writing/Final Portfolio,30,available
+30527,116675,Lab 4-Respiration and Photosynthesis,0,available
+42221,116674,Lab 4-Respiration and Photosynthesis,0,available
+62938,114265,Piazza Bonus Points (not reflected in Canvas total grade),0,available
+65085,108686,Module #9 -- Issues in FCS/FACS Education--Addressing Diversity,0,available
+72918,116657,Aplia,10,available
+9425,110666,Project 5,20,available
+138246,116742,Assignments,0,available
+16149,115662,Exam Archive,0,available
+29930,111598,Extra credit,0,available
+72469,106491,October 26th,0,available
+89167,106475,September 21,0,available
+46809,115666,Exam Archives,0,available
+12308,110036,Participation,10,available
+116364,109054,Video Summaries,0,available
+120034,109255,Misc Assignments,0,available
+7036,110175,Oral Examination,5,available
+103699,106674,Final Peer Review,10,available
+13919,106468,PowerPoint Unit #3,0,available
+42449,106469,PowerPoint Unit #3,0,available
+14191,116377,Practice Questions,0,available
+95342,111034,Team Peer Assessment,2,available
+67465,115218,Final & Course Surveys,0,available
+73887,114230,Hybrid Class 11/3/2017,0,available
+67995,113903,Exam 2 HONORS Fall 2017,0,available
+109491,114161,Treatment Presentations,0,available
+73097,110673,Project 4 Group Presentation,12,available
+60528,116675,Recitation 4-Cell Cycle Module,0,available
+112045,116674,Recitation 4-Cell Cycle Module,0,available
+43799,109328,Conjunction and Interjection Practice,1,available
+53811,108686,Module #10 -- Ethics in FCS/FACS Education,0,available
+12963,108209,Final Persuasive Speech of Community Connection,0,available
+31638,110036,Skit,5,available
+141871,113903,Exam 3,0,available
+17040,106674,Others,0,available
+62324,110175,Journals,10,available
+2380,110539,Attendance,14,deleted
+111640,114161,CCC Pop Quiz,0,available
+4057,106491,November 2nd,0,available
+27088,106475,September 26,0,available
+51467,112995,Final Project,30,available
+42322,109054,Article Analysis,0,available
+38665,106469,PowerPoint Unit #4,0,available
+59600,106468,PowerPoint Unit #4,0,available
+21822,109577,Imported Assignments,0,deleted
+41953,116742,Imported Assignments,0,available
+109525,109255,Imported Assignments,0,available
+117574,116377,Team Peer Assessment,2,available
+106139,108686,Final Exam Assignment,0,available
+136084,116652,课外作业或测验,0,deleted
+11543,111034,Exam Learning Objectives,0,available
+100426,113903,Publisher-provided exams,0,deleted
+52636,110673,Project 4 Individual Grade,8,available
+28197,110666,Karen's Chapter Quiz Groups,0,deleted
+65354,116674,Lab 5-Genetics and Inheritance,0,available
+127918,116675,Lab 5-Genetics and Inheritance,0,available
+47321,109328,Subjects and Predicates Practice,2,available
+115620,111034,Ignore,0,available
+108405,110539,Attendance ,0,deleted
+128811,114161,Extra Credit,0,available
+138135,106491,November 9th,0,available
+115333,106475,September 28,0,available
+72503,106469,Excel Unit #1,0,available
+75287,106468,Excel Unit #1,0,available
+66745,110175,chapter exams,25,available
+76911,110036,Exit interview,5,available
+144904,116652,Homework or Quiz,0,deleted
+40245,116674,Lab 6-Cheek DNA Lab,0,available
+38237,116675,Lab 6-Cheek DNA Lab,0,available
+19985,106485,Imported Assignments,0,deleted
+121069,113903,Exam 3 HONORS Fall 2017,0,available
+59324,116377,Exam Learning Objectives,0,available
+84338,110666,Mary's Old Grammar Quizzes,0,deleted
+71788,111034,Troubleshooting a problem - please ignore,0,deleted
+60395,109328,Participles and Participle Phrases Practice,1,available
+136127,116377,Ignore,0,available
+3115,106475,October 3,0,available
+112798,113903,Final Exam,0,available
+2847,106491,November 16,0,available
+116230,106491,November 23,0,deleted
+47159,106469,Excel Unit #2,0,available
+109288,106468,Excel Unit #2,0,available
+14340,110666,Unused Assignments,0,deleted
+81990,107402,Imported Assignments,0,available
+140494,116652,iclicker polling scores,0,deleted
+5085,109328,Gerund and Gerund Phrase Practice,1,available
+58864,116674,Recitation 5-Macromolecule Concept Map,0,available
+127173,116675,Recitation 5-Macromolecule Concept Map,0,available
+140949,106475,October 5,0,available
+44365,106468,Excel Unit #3,0,available
+45813,106469,Excel Unit #3,0,available
+69442,106491,November 30th,0,available
+36189,116652,Imported Assignments,0,deleted
+102933,112993,Imported Assignments,0,available
+79103,116377,Imported Assignments,0,available
+116535,116674,Recitation 6-Gene Expression,0,available
+3533,116675,Recitation 6-Gene Expression,0,available
+21260,109328,Appositive and Appositive Phrase Practice,1,available
+101767,106475,October 10,0,available
+38456,106491,December 7th,0,available
+148378,106469,Excel Unit #4,0,available
+123339,106468,Excel Unit #4,0,available
+59470,116675,Lab 7-Bioinformatics,0,available
+39632,116674,Lab 7-Bioinformatics,0,available
+60451,109328,Joining Sentences with Subordinators and Coordinators,4,available
+2184,106475,October 12,0,available
+70379,106491,Other Assignments,0,available
+67872,116675,Recitaiton 7-Jeopardy,0,available
+69395,116674,Recitaiton 7-Jeopardy,0,available
+75051,106475,October 19,0,available
+54860,109328,Compound-Complex Sentences,1,available
+130715,106475,October 24th,0,available
+148766,109328,Comma Practice,1,available
+43841,106475,October 26,0,available
+92043,109328,Semicolon Practice,1,available
+45633,116674,Imported Assignments,0,available
+138116,116675,Imported Assignments,0,available
+8558,106475,October 31,0,available
+65674,109328,"Hyphen, Dash, and Parentheses Practice",1,available
+32602,106475,November 2,0,available
+55423,106475,November 7,0,available
+8562,106475,November 9,0,available
+105366,106475,November 14,0,available
+105201,106475,November 16,0,available
+69925,109328,Comprehensive Grammar Exam,12,available
+95930,106475,November 21,0,available
+149980,109328,Reading Skills Homework: Vocabulary In Context,1,available
+54753,106475,November 28,0,available
+125487,109328,Reading Skills Homework: Main Ideas,1,available
+55281,106475,November 30,0,available
+84170,109328,Reading Skills Homework: Supporting Details,1,available
+3467,106475,December 5,0,available
+64189,109328,Reading Skills Homework: Implied Main Ideas,1,available
+98700,106475,December 7,0,available
+139637,109328,Reading Skills Homework: Relationships I,1,available
+63620,106475,December 8,0,deleted
+133789,106475,December 8,0,available
+112721,109328,Reading Skills Homework: Relationships II,1,available
+39642,106475,Teaching Assignment,0,available
+38486,109328,Reading Skills Homework: Inferences,1,available
+36260,109328,Reading Skills Homework: Purpose and Tone,1,available
+56111,109328,Reading Skills Homework: Argument,2,available
+69216,109328,Reading Exam: Vocabulary In Context,2,available
+42104,109328,Reading Exam: Main Ideas,2,available
+135395,109328,Reading Exam: Supporting Details,2,available
+19387,109328,Reading Exam: Implied Main Ideas,2,available
+52365,109328,Reading Exam: Relationships I,2,available
+140959,109328,Reading Exam: Relationships II,2,available
+32598,109328,Reading Exam: Inferences,2,available
+123883,109328,Reading Exam: Purpose and Tone,2,available
+101530,109328,Reading Exam: Argument,2,available
